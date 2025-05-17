@@ -40,7 +40,7 @@
         <mxCell id="-xSBNWtguhiXdYbyg7LZ-1" value="- STK: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MAhJBNkKCPPGFBtyOftE-18" vertex="1">
           <mxGeometry y="258.2209944751381" width="195.16129032258064" height="24.53038674033149" as="geometry" />
         </mxCell>
-        <mxCell id="eUlU37ug8p3AVQOr13L2-28" value="- TrangThai: int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MAhJBNkKCPPGFBtyOftE-18" vertex="1">
+        <mxCell id="eUlU37ug8p3AVQOr13L2-28" value="- TrangThai: string" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MAhJBNkKCPPGFBtyOftE-18" vertex="1">
           <mxGeometry y="282.7513812154696" width="195.16129032258064" height="22.895027624309392" as="geometry" />
         </mxCell>
         <mxCell id="rBQ-S6ylepL26hAHZLZ_-9" value="- Password: String" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="MAhJBNkKCPPGFBtyOftE-18" vertex="1">
